@@ -14,3 +14,8 @@ This project is a comprehensive virtual memory management simulator developed fo
 ```bash
 pip install -r requirements.txt
 python run.py
+ 
+## Project Features
+- Paging System Simulation
+- Segmentation System
+- Multiple Page Replacement Algorithms
