@@ -145,8 +145,6 @@ virtual-memory-simulator/
 ├── requirements.txt           # Python dependencies
 ├── .gitignore                # Git configuration
 └── run.py                    # Application launcher
-📸 Screenshots
-(Note: Add actual screenshots of your application here)
 
 Paging System Interface
 
@@ -192,12 +190,6 @@ Course: CSE 234 - Operating Systems
 
 University: Lovely Professional University
 
-Term: 25261
-
-Academic Year: 2023-2024
-
-Max Marks: 30
-
 Learning Outcomes
 This project demonstrates understanding of:
 
@@ -217,14 +209,9 @@ This project is developed for educational purposes as part of the LPU CSE 234 co
 🤝 Contributing
 While this is an academic project, suggestions and improvements are welcome. Please feel free to fork the repository and submit pull requests.
 
-📞 Support
-For any queries related to this project, please contact:
 
 Email: toshalmahajan11@gmail.com
 
 GitHub Issues: Create an issue
 
-<div align="center">
 Developed with ❤️ for LPU CSE 234 - Operating Systems
-
-</div> ```
