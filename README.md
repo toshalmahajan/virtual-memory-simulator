@@ -212,6 +212,3 @@ While this is an academic project, suggestions and improvements are welcome. Ple
 
 Email: toshalmahajan11@gmail.com
 
-GitHub Issues: Create an issue
-
-Developed with ❤️ for LPU CSE 234 - Operating Systems
